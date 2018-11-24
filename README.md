@@ -1,2 +1,2 @@
 # C-programming
-brief codes to practice
+grade system
